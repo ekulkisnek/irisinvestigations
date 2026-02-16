@@ -1,6 +1,5 @@
 # Xcode
 build/
-*.app/
 ScreenWarmth/ScreenWarmth
 DerivedData/
 *.xcuserstate

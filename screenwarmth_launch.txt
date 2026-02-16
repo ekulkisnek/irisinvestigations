@@ -1,1 +1,0 @@
-[ScreenWarmth] launched, enabled=false
