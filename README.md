@@ -6,6 +6,11 @@ Menu bar app: gamma brightness + blue light on all displays.
 
 Double-click `ScreenWarmth.app`. First time: right-click → Open if macOS blocks it.
 
+If macOS says the app is "damaged" (common after cloning or downloading), run:
+```
+xattr -d com.apple.quarantine ScreenWarmth.app
+```
+
 Sun icon in menu bar → sliders → Enable.
 
 ## Rebuild
